@@ -76,8 +76,8 @@ We have developed a Resume ATS Scanner that allows users to upload their resumes
 ## Demonstrations
 
 ### Photo Demonstrations
-![Screenshot of Resume Upload](placeholder_for_screenshot1.png)
-![Screenshot of Resume Summary](placeholder_for_screenshot2.png)
+![Screenshot of Resume Upload](s1.png)
+
 
 ### Video Demonstrations
 [Placeholder for video demonstration](placeholder_for_video_url)
